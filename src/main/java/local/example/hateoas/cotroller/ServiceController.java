@@ -24,5 +24,4 @@ public class ServiceController {
     public SaludoDto holaServicioB() {
         return new SaludoDto("Hola desde el servicio B");
     }
-
 }
